@@ -1,7 +1,12 @@
 {
     "folders": [
         {
+            "name": "TFGWorkspace",
             "path": "."
+        },
+        {
+            "name": "tfgfront",
+            "path": "tfgfront"
         }
     ]
 }
