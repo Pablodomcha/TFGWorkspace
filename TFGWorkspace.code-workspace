@@ -1,12 +1,10 @@
 {
     "folders": [
         {
-            "name": "TFGWorkspace",
             "path": "."
-        },
-        {
-            "name": "tfgfront",
-            "path": "tfgfront"
         }
-    ]
+    ],
+    "settings": {
+        "java.compile.nullAnalysis.mode": "automatic"
+    }
 }
