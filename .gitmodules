@@ -1,3 +1,6 @@
 [submodule "tfgback"]
 	path = tfgback
 	url = https://github.com/Pablodomcha/tfgback.git
+[submodule "tfgfront"]
+	path = tfgfront
+	url = https://github.com/Pablodomcha/tfgfront.git
